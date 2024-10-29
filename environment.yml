@@ -1,0 +1,33 @@
+name: GreenMetric
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.12
+  - numpy
+  - pandas
+  - scikit-learn
+  - scipy
+  - jupyterlab
+  - ipykernel
+  - matplotlib
+  - seaborn
+  - requests
+  - beautifulsoup4
+  - scrapy
+  - sqlalchemy
+  - flask
+  - fastapi
+  - uvicorn
+  - pymongo
+  - kafka-python
+  - pyspark
+  - nodejs
+  - pytest
+  - pip:
+      - yfinance
+      - alpha_vantage
+      - plotly
+      - dash
+      - transformers
+      - mlflow
