@@ -1,0 +1,176 @@
+{
+    "YahooFinance": {
+        "large": [
+            {
+                "ticker": "AAPL",
+                "esg_score": null
+            },
+            {
+                "ticker": "MSFT",
+                "esg_score": null
+            },
+            {
+                "ticker": "GOOGL",
+                "esg_score": null
+            }
+        ],
+        "mid": [
+            {
+                "ticker": "NVDA",
+                "esg_score": null
+            },
+            {
+                "ticker": "PYPL",
+                "esg_score": null
+            },
+            {
+                "ticker": "NFLX",
+                "esg_score": null
+            }
+        ],
+        "small": [
+            {
+                "ticker": "PLTR",
+                "esg_score": null
+            },
+            {
+                "ticker": "FSLY",
+                "esg_score": null
+            },
+            {
+                "ticker": "DOCU",
+                "esg_score": null
+            }
+        ],
+        "startup": [
+            {
+                "ticker": "SNAP",
+                "esg_score": null
+            },
+            {
+                "ticker": "UBER",
+                "esg_score": null
+            },
+            {
+                "ticker": "ZM",
+                "esg_score": null
+            }
+        ]
+    },
+    "Morningstar": {
+        "large": [
+            {
+                "ticker": "BRK.B",
+                "esg_risk_score": null
+            },
+            {
+                "ticker": "XOM",
+                "esg_risk_score": null
+            },
+            {
+                "ticker": "CVX",
+                "esg_risk_score": null
+            }
+        ],
+        "mid": [
+            {
+                "ticker": "MRK",
+                "esg_risk_score": null
+            },
+            {
+                "ticker": "IBM",
+                "esg_risk_score": null
+            },
+            {
+                "ticker": "HON",
+                "esg_risk_score": null
+            }
+        ],
+        "small": [
+            {
+                "ticker": "RKT",
+                "esg_risk_score": null
+            },
+            {
+                "ticker": "GME",
+                "esg_risk_score": null
+            },
+            {
+                "ticker": "DKNG",
+                "esg_risk_score": null
+            }
+        ],
+        "startup": [
+            {
+                "ticker": "TSLA",
+                "esg_risk_score": null
+            },
+            {
+                "ticker": "SPCE",
+                "esg_risk_score": null
+            },
+            {
+                "ticker": "BYND",
+                "esg_risk_score": null
+            }
+        ]
+    },
+    "Nasdaq": {
+        "large": [
+            {
+                "ticker": "AMZN",
+                "sustainability_score": null
+            },
+            {
+                "ticker": "TSLA",
+                "sustainability_score": null
+            },
+            {
+                "ticker": "FB",
+                "sustainability_score": null
+            }
+        ],
+        "mid": [
+            {
+                "ticker": "SQ",
+                "sustainability_score": null
+            },
+            {
+                "ticker": "ROKU",
+                "sustainability_score": null
+            },
+            {
+                "ticker": "SPOT",
+                "sustainability_score": null
+            }
+        ],
+        "small": [
+            {
+                "ticker": "CRWD",
+                "sustainability_score": null
+            },
+            {
+                "ticker": "ZS",
+                "sustainability_score": null
+            },
+            {
+                "ticker": "MDB",
+                "sustainability_score": null
+            }
+        ],
+        "startup": [
+            {
+                "ticker": "ASAN",
+                "sustainability_score": null
+            },
+            {
+                "ticker": "BILL",
+                "sustainability_score": null
+            },
+            {
+                "ticker": "LYFT",
+                "sustainability_score": null
+            }
+        ]
+    }
+}

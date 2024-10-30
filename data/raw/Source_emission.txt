@@ -1,0 +1,2 @@
+https://globalcarbonatlas.org/emissions/carbon-emissions/ : export emissions
+https://github.com/owid/co2-data : owid-c02 data
